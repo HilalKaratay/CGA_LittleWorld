@@ -17,4 +17,17 @@ Listen Sie hier alle Teammitglieder auf.
 - Kameraperspektive mit 3rd Person View auf dem Spieler
 
 # Quellenverzeichnis
-Listen Sie hier ALLE Quellen der genutzten Ressourcen auf.
+ShadowMapping - https://learnopengl.com/Advanced-Lighting/Shadows/Shadow-Mapping
+CubeMaps & Skybox - https://learnopengl.com/Advanced-OpenGL/Cubemaps
+Day/Night Skybox rendering - https://www.youtube.com/watch?v=rqx9IDLKV28&list=PLRIWtICgwaX0u7Rf9zkZhLoLuZVfUksDP&index=28
+
+
+
+Modelle
+Figur - 
+Haus - 
+Katze - 
+Hund - 
+Stein -
+Baum -
+Skybox Bilder - https://www.dropbox.com/s/iom1x2c3t0r5owr/Day%20Night%20Example.txt?dl=0   &  https://learnopengl.com/img/textures/skybox.zip
