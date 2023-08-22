@@ -15,6 +15,7 @@ Listen Sie hier alle Teammitglieder auf.
 - Eigene Modelle
   darunter ein Haus, eine Sitzbank, ein Hund, eine Katze, Bäume, Steine und der Spieler
 - Kameraperspektive mit 3rd Person View auf dem Spieler
+- Shader kann gewechselt werden von TronShader (standard) zu ToonShader mit Klick auf 1
 
 # Quellenverzeichnis
 
