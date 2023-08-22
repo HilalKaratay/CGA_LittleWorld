@@ -14,6 +14,7 @@ Listen Sie hier alle Teammitglieder auf.
 - Shadow Mapping für Schatten von der Sonne
 - Eigene Modelle
   darunter ein Haus, eine Sitzbank, ein Hund, eine Katze, Bäume, Steine und der Spieler
+- Tiere können sich von alleine Bewegen 
 - Kameraperspektive mit 3rd Person View auf dem Spieler
 - Shader kann gewechselt werden von TronShader (standard) zu ToonShader mit Klick auf 1
 
