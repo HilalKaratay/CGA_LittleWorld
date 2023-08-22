@@ -8,12 +8,13 @@ Listen Sie hier alle Teammitglieder auf.
 - Christian Msamba Mbengi
 
 # Featureliste
-- Skybox mit dynamischem Tag-Nacht Wechsel
+- Skybox (Versuch: dynamischer Tag-Nacht Wechsel teilweise implementiert)
 - Charaktersteuerung mit WASD
-- Kollisionserkennung vom Spieler, Tieren, Bäumen und Steinen
+- Kollisionserkennung vom Spieler gegen verschiedene Objekte wie z.B. Tieren, Bäumen und Steinen
 - Shadow Mapping für Schatten von der Sonne
 - Eigene Modelle
-- Kameraperspektive mit 3rd Person View
+  darunter ein Haus, eine Sitzbank, ein Hund, eine Katze, Bäume, Steine und der Spieler
+- Kameraperspektive mit 3rd Person View auf dem Spieler
 
 # Quellenverzeichnis
 Listen Sie hier ALLE Quellen der genutzten Ressourcen auf.
