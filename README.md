@@ -21,8 +21,8 @@ Listen Sie hier alle Teammitglieder auf.
 # Quellenverzeichnis
 
 - ShadowMapping: https://learnopengl.com/Advanced-Lighting/Shadows/Shadow-Mapping
-- CubeMaps & Skybox: https://learnopengl.com/Advanced-OpenGL/Cubemaps
-- Day/Night Skybox rendering: https://www.youtube.com/watch?v=rqx9IDLKV28&list=PLRIWtICgwaX0u7Rf9zkZhLoLuZVfUksDP&index=28
+- CubeMaps & (Day) Skybox: https://learnopengl.com/Advanced-OpenGL/Cubemaps
+- Night Skybox rendering: https://www.youtube.com/watch?v=rqx9IDLKV28&list=PLRIWtICgwaX0u7Rf9zkZhLoLuZVfUksDP&index=28
 
 **Eigene Modelle:**
 - Figur
@@ -32,6 +32,8 @@ Listen Sie hier alle Teammitglieder auf.
 - Laterne
 - Grashalme
 - Haus
+- Zaun
+- Schaf
 
 **Modelle vom Internet:**
 - Katze: https://www.turbosquid.com/de/3d-models/3d-model-animals-free-2098584#
@@ -40,7 +42,9 @@ Listen Sie hier alle Teammitglieder auf.
 - Parkbank: https://www.turbosquid.com/de/3d-models/garden-furniture-3d-1841667
 - Busch: https://sketchfab.com/3d-models/low-poly-bushes-e109272b7ea34cc0a09cbd26e6fdc6d8
 - Brunnen: https://sketchfab.com/3d-models/low-poly-water-fountain-7cf9722641f3485f9edae8109799128a
+- Schaf: https://free3d.com/3d-model/marco-polo-sheep-v1--771606.html
+- Zaun: https://free3d.com/3d-model/gothic-wood-fence-pane-v2--156666.html
 
 **Texturen:**
 - Skybox: https://www.dropbox.com/s/iom1x2c3t0r5owr/Day%20Night%20Example.txt?dl=0   &  https://learnopengl.com/img/textures/skybox.zip
-- Boden: 
+- Boden/Grass : https://free3d.com/de/3d-model/grass-multi-7143.html  (Datei wurde erworben)
