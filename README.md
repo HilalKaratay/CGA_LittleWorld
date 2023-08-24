@@ -1,4 +1,4 @@
-# Projektname
+# Projektname : OurPlanet
 OurPlanet
 ist eine kleine fiktive Welt indem der Nutzer die Möglichkeit hat, einen
 Charakter zu steuern und einige Tätigkeiten in der Fabelwelt zu erkunden. Dabei ist die Idee 
