@@ -4,7 +4,8 @@ Erläutern Sie dabei, welche Features Sie implementiert haben und zeigen Sie die
 Das Video darf nur Ihre Anwendung zeigen, sowie Ihre Stimmen beinhalten.
 
 **Bitte speichern Sie das Video als MP4 (H.264) hier ab. Wenn die Datei für GitHub zu groß ist laden Sie sie bitte auf Sciebo hoch und verlinken sie hier.**
+ABGABE VIDEO ALS YOUTUBE LINK
+https://youtu.be/jsL78VbqN4k
 
-Zur Erstellung können Sie ein beliebiges Programm verwenden, wir können folgende empfehlen:
-- https://obsproject.com/
-- https://www.techsmith.de/camtasia.html
+ABGABE VIDEO ALS SCIEBO LINK
+https://th-koeln.sciebo.de/s/ZD7QSlUWQV3Uuqe
