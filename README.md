@@ -1,5 +1,9 @@
 # Projektname
 OurPlanet
+ist eine kleine fiktive Welt indem der Nutzer die Möglichkeit hat, einen
+Charakter zu steuern und einige Tätigkeiten in der Fabelwelt zu erkunden. Dabei ist die Idee 
+einigen Objekte wie Bäume, Blumen, Häuser und Tiere zu programmieren.
+Der Nutzer hat dann die Möglichkeit sich in dieser Fabelwelt zu bewegen.
 
 # Teammitglieder
 Listen Sie hier alle Teammitglieder auf.
