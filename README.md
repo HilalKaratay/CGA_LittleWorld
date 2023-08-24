@@ -7,8 +7,8 @@ Listen Sie hier alle Teammitglieder auf.
 - Hilal Murat
 
 # Featureliste
-- Skybox implementiert (Versuch: dynamischer Tag-Nacht Wechsel teilweise implementiert)
-- Charaktersteuerung mit WASD
+- Skybox implementiert (Versuch: dynamischer Tag-Nacht Wechsel teilweise implementiert leider erfolglos)
+- Charaktersteuerung mit WASD und Maus
 - Kollisionserkennung (Meldung der Collision) vom Spieler gegen verschiedene Objekte wie z.B. Bäumen, Brunnen, Haus, und Zaun
 - Eigene Modelle: ein Haus, eine Sitzbank, ein Hund, eine Katze, Bäume, der Spieler und viele mehr
 - Tiere können sich von alleine Bewegen
@@ -29,8 +29,6 @@ Listen Sie hier alle Teammitglieder auf.
 - Tiere -> Schaf, Hund, Katze
 - Brunnen
 - Sitzbank
-- 
-  
 
 # Quellenverzeichnis
 - CubeMaps & (Day) Skybox: https://learnopengl.com/Advanced-OpenGL/Cubemaps
