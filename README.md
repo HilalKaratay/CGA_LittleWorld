@@ -11,17 +11,17 @@ Listen Sie hier alle Teammitglieder auf.
 - Hilal Murat
 
 # Featureliste
-- Skybox implementiert (Versuch: dynamischer Tag-Nacht Wechsel teilweise implementiert leider erfolglos)
-- Charaktersteuerung mit WASD und Maus
-- Kollisionserkennung (Meldung der Collision) vom Spieler gegen verschiedene Objekte wie z.B. Bäumen, Brunnen, Haus, und Zaun
-- Eigene Modelle: ein Haus, eine Sitzbank, ein Hund, eine Katze, Bäume, der Spieler und viele mehr
-- Tiere können sich von alleine Bewegen
-- Szene wurde zu einem Sinnvollen Beerich zusammengesetzt. Objekte stehen in Relation zueinander.
-- Kameraperspektive mit 3rd Person View auf dem Spieler
-- Durch Tastendruck auf "0" ist es möglich die 3rd Person-View auf die 1st Person-View zu ändern
-- Shader kann gewechselt werden auf TronShader (standard) mit Tastendurck auf "1"
-- Shader kann gewechselt werden auf ToonShader mit Tastendurck auf "2"
-- Shader kann gewechselt werden auf SeconShader mit Tastendurck auf "3"
+- Skybox implementiert (Versuch: dynamischer Tag-Nacht Wechsel teilweise implementiert leider erfolglos) (Hilal & Büsra)
+- Charaktersteuerung mit WASD und Maus (Büsra)
+- Kollisionserkennung (Meldung der Collision) vom Spieler gegen verschiedene Objekte wie z.B. Bäumen, Brunnen, Haus, und Zaun (Hilal & Büsra)
+- Eigene Modelle: ein Haus, eine Sitzbank, ein Hund, eine Katze, Bäume, der Spieler und viele mehr (Hilal & Büsra)
+- Tiere können sich von alleine Bewegen (Hilal)
+- Szene wurde zu einem Sinnvollen Berich zusammengesetzt. Objekte stehen in Relation zueinander (Büsra)
+- Kameraperspektive mit 3rd Person View auf dem Spieler (Hilal & Büsra)
+- Durch Tastendruck auf "0" ist es möglich die 3rd Person-View auf die 1st Person-View zu ändern (Büsra)
+- Shader kann gewechselt werden auf TronShader (standard) mit Tastendurck auf "1" (Hilal)
+- Shader kann gewechselt werden auf ToonShader mit Tastendurck auf "2" (Hilal)
+- Shader kann gewechselt werden auf SeconShader mit Tastendurck auf "3" (Hilal)
 
 **Eigene Modelle:**
 - Figur
@@ -29,12 +29,8 @@ Listen Sie hier alle Teammitglieder auf.
 - Bäume
 - Blume
 - Laterne
-- Grashalme(BodenTextur)
+- Grashalme (BodenTextur)
 - Haus
-- Zaun
-- Tiere -> Schaf, Hund, Katze
-- Brunnen
-- Sitzbank
 
 # Quellenverzeichnis
 - CubeMaps & (Day) Skybox: https://learnopengl.com/Advanced-OpenGL/Cubemaps
