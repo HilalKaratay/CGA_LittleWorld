@@ -19,7 +19,9 @@ Listen Sie hier alle Teammitglieder auf.
 - Szene wurde zu einem Sinnvollen Beerich zusammengesetzt. Objekte stehen in Relation zueinander.
 - Kameraperspektive mit 3rd Person View auf dem Spieler
 - Durch Tastendruck auf "0" ist es möglich die 3rd Person-View auf die 1st Person-View zu ändern
-- Shader kann gewechselt werden von TronShader (standard) zu ToonShader mit Tastendurck auf "1"
+- Shader kann gewechselt werden auf TronShader (standard) mit Tastendurck auf "1"
+- Shader kann gewechselt werden auf ToonShader mit Tastendurck auf "2"
+- Shader kann gewechselt werden auf SeconShader mit Tastendurck auf "3"
 
 **Eigene Modelle:**
 - Figur
